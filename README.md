@@ -1,2 +1,6 @@
 # uebung-pull-request
-Uebung pull request
+>Übung pull request
+
+```
+git config --global init.defaultBranch main
+```
