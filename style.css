@@ -1,6 +1,6 @@
-h1 {
-  font-style: italic;
+
+h1{
+    color:red;
+    background-color: lightgray;
 }
-h2 {
-  color: green;
-}
+
